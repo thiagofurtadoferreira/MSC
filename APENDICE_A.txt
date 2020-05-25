@@ -1,203 +1,203 @@
-ITEM	ATRIBUTO	TIPO	CORRELAÇÃO	DESCRIÇÃO DO ATRIBUTO
-1	AVG_CM03	INPUT	-0,029222523	Média de consumo dos últimos 3 meses.
-2	AVG_CM06	INPUT	-0,025672146	Média de consumo dos últimos 6 meses.
-3	AVG_CM09	INPUT	-0,02800304	Média de consumo dos últimos 9 meses.
-4	AVG_CM12	INPUT	-0,026895474	Média de consumo dos últimos 12 meses.
-5	AVG_CONS24	INPUT	-0,045297244	Média de consumo dos últimos 24 meses.
-6	CF01	INPUT	-0,027280804	Consumo faturado mês 1.
-7	CF02	INPUT	-0,028222567	Consumo faturado mês 2.
-8	CF03	INPUT	-0,026455438	Consumo faturado mês 3.
-9	CF04	INPUT	-0,025552585	Consumo faturado mês 4.
-10	CF05	INPUT	-0,021963525	Consumo faturado mês 5.
-11	CF06	INPUT	-0,022345095	Consumo faturado mês 6.
-12	CF07	INPUT	-0,024841331	Consumo faturado mês 7.
-13	CF08	INPUT	-0,02489008	Consumo faturado mês 8.
-14	CF09	INPUT	-0,026130212	Consumo faturado mês 9.
-15	CF10	INPUT	-0,027990332	Consumo faturado mês 10.
-16	CF11	INPUT	-0,022972282	Consumo faturado mês 11.
-17	CF12	INPUT	-0,021855508	Consumo faturado mês 12.
-18	CF13	INPUT	-0,020193014	Consumo faturado mês 13.
-19	CF14	INPUT	-0,026243704	Consumo faturado mês 14.
-20	CF15	INPUT	-0,023472414	Consumo faturado mês 15.
-21	CF16	INPUT	-0,016475253	Consumo faturado mês 16.
-22	CF17	INPUT	-0,019049969	Consumo faturado mês 17.
-23	CF18	INPUT	-0,021819249	Consumo faturado mês 18.
-24	CF19	INPUT	-0,020384548	Consumo faturado mês 19.
-25	CF20	INPUT	-0,02132433	Consumo faturado mês 20.
-26	CF21	INPUT	-0,0232638	Consumo faturado mês 21.
-27	CF22	INPUT	-0,021622143	Consumo faturado mês 22.
-28	CF23	INPUT	-0,017651908	Consumo faturado mês 23.
-29	CF24	INPUT	-0,018472537	Consumo faturado mês 24.
-30	CF25	INPUT	-0,023371189	Consumo faturado mês 25.
-31	CF26	INPUT	-0,02552629	Consumo faturado mês 26.
-32	CF27	INPUT	-0,025877466	Consumo faturado mês 27.
-33	CF28	INPUT	-0,022051385	Consumo faturado mês 28.
-34	CF29	INPUT	-0,023342578	Consumo faturado mês 29.
-35	CF30	INPUT	-0,027926921	Consumo faturado mês 30.
-36	CF31	INPUT	-0,028375485	Consumo faturado mês 31.
-37	CF32	INPUT	-0,030757977	Consumo faturado mês 32.
-38	CF33	INPUT	-0,034428061	Consumo faturado mês 33.
-39	CF34	INPUT	-0,037044653	Consumo faturado mês 34.
-40	CF35	INPUT	-0,033033068	Consumo faturado mês 35.
-41	CF36	INPUT	-0,035659293	Consumo faturado mês 36.
-42	CF37	INPUT	-0,028355732	Consumo faturado mês 37.
-43	CF38	INPUT	-0,039170118	Consumo faturado mês 38.
-44	CF39	INPUT	-0,051216707	Consumo faturado mês 39.
-45	CF40	INPUT	-0,053668363	Consumo faturado mês 40.
-46	CF41	INPUT	-0,057615406	Consumo faturado mês 41.
-47	CF42	INPUT	-0,049830718	Consumo faturado mês 42.
-48	CF43	INPUT	0,002496648	Consumo faturado mês 43.
-49	CM01	INPUT	-0,027685834	Consumo medido no mês 1.
-50	CM02	INPUT	-0,029097558	Consumo medido no mês 2.
-51	CM03	INPUT	-0,027707292	Consumo medido no mês 3.
-52	CM04	INPUT	-0,026896746	Consumo medido no mês 4.
-53	CM05	INPUT	-0,023301223	Consumo medido no mês 5.
-54	CM06	INPUT	-0,024056157	Consumo medido no mês 6.
-55	CM07	INPUT	-0,026526174	Consumo medido no mês 7.
-56	CM08	INPUT	-0,026553774	Consumo medido no mês 8
-57	CM09	INPUT	-0,027565952	Consumo medido no mês 9.
-58	CM10	INPUT	-0,029420886	Consumo medido no mês 10.
-59	CM11	INPUT	-0,024372834	Consumo medido no mês 11.
-60	CM12	INPUT	-0,023859064	Consumo medido no mês 12.
-61	CM13	INPUT	-0,022124417	Consumo medido no mês 13.
-62	CM14	INPUT	-0,028637581	Consumo medido no mês 14.
-63	CM15	INPUT	-0,025966578	Consumo medido no mês 15.
-64	CM16	INPUT	-0,019088239	Consumo medido no mês 16.
-65	CM17	INPUT	-0,021766498	Consumo medido no mês 17.
-66	CM18	INPUT	-0,025022657	Consumo medido no mês 18.
-67	CM19	INPUT	-0,024003862	Consumo medido no mês 19.
-68	CM20	INPUT	-0,024330935	Consumo medido no mês 20.
-69	CM21	INPUT	-0,025913059	Consumo medido no mês 21.
-70	CM22	INPUT	-0,024338296	Consumo medido no mês 22.
-71	CM23	INPUT	-0,020585166	Consumo medido no mês 23.
-72	CM24	INPUT	-0,021472443	Consumo medido no mês 24.
-73	CM25	INPUT	-0,026003965	Consumo medido no mês 25.
-74	CM26	INPUT	-0,005592304	Consumo medido no mês 26.
-75	CM27	INPUT	-0,005966137	Consumo medido no mês 27.
-76	CM28	INPUT	-0,022222842	Consumo medido no mês 28.
-77	CM29	INPUT	-0,005124925	Consumo medido no mês 29.
-78	CM30	INPUT	-0,005467135	Consumo medido no mês 30.
-79	CM31	INPUT	-0,006082285	Consumo medido no mês 31.
-80	CM32	INPUT	-0,004494086	Consumo medido no mês 32.
-81	CM33	INPUT	-0,005509708	Consumo medido no mês 33.
-82	CM34	INPUT	-0,012847243	Consumo medido no mês 34.
-83	CM35	INPUT	-0,00899851	Consumo medido no mês 35.
-84	CM36	INPUT	-0,008402829	Consumo medido no mês 36.
-85	CM37	INPUT	-0,030559418	Consumo medido no mês 37.
-86	CM38	INPUT	-0,041968037	Consumo medido no mês 38.
-87	CM39	INPUT	-0,012081162	Consumo medido no mês 39.
-88	CM40	INPUT	-0,055436822	Consumo medido no mês 40.
-89	CM41	INPUT	0,000424267	Consumo medido no mês 41.
-90	CM42	INPUT	-0,012148619	Consumo medido no mês 42.
-91	CM43	INPUT	0,00063348	Consumo medido no mês 43.
-92	COD_100EX	INPUT	0,026932625	Quantidade de fiscalizações exclusivas com fraude intensionais para os vizinhos até 30 metros.
-93	COD_200EX	INPUT	-0,012750976	Quantidade de fiscalizações exclusivas com defeito técnico para os vizinhos até 30 metros.
-94	COD_300EX	INPUT	-0,462402761	Quantidade de fiscalizações exclusivas sem perda técnica para os vizinhos até 30 metros.
-95	DIFF_LG	INPUT	-0,001254229	Tempo em meses que o consumidor é cliente.
-96	DIFF_MES_IDADE	INPUT	-0,074904964	Tempo em meses da idade do consumidor.
-97	DVAP_CONS24	INPUT	-0,035119394	Desvio padrão do consumo para os vizinhos até 30 metros nos últimos 24 meses.
-98	ID_POSTE	INPUT	0,001771272	Id do poste.
-99	INSTALACAO	ID	0,074707998	ID do consumidor.
-100	LATITUDE	INPUT	-0,205594452	Coordenada geografica, latitude.
-101	LONGITUDE	INPUT	-0,141526211	Coordenada geografica, longitude.
-102	MAX_CONS24	INPUT	-0,064524371	Máximo consumo para os vizinhos até 30 metros nos últimos 24 meses.
-103	MED_CONS24	INPUT	-0,040573088	Média do consumo para os vizinhos até 30 metros nos últimos 24 meses.
-104	MIN_CONS24	INPUT	0,019909026	Menor consumo para os vizinhos até 30 metros nos últimos 24 meses.
-105	MIN01	INPUT	0,029449434	Flag de consumo minimo no mês 1
-106	MIN03	INPUT	0,037366367	Flag de consumo minimo no mês 2
-107	MIN04	INPUT	0,039347047	Flag de consumo minimo no mês 3
-108	MIN05	INPUT	0,038778315	Flag de consumo minimo no mês 4
-109	MIN06	INPUT	0,040376014	Flag de consumo minimo no mês 5
-110	MIN07	INPUT	0,041688245	Flag de consumo minimo no mês 6
-111	MIN08	INPUT	0,040446927	Flag de consumo minimo no mês 7
-112	MIN09	INPUT	0,042799316	Flag de consumo minimo no mês 8
-113	MIN10	INPUT	0,042364825	Flag de consumo minimo no mês 9
-114	MIN11	INPUT	0,040614374	Flag de consumo minimo no mês 10
-115	MIN12	INPUT	0,046917627	Flag de consumo minimo no mês 11
-116	MIN13	INPUT	0,046538798	Flag de consumo minimo no mês 12
-117	MIN14	INPUT	0,049774324	Flag de consumo minimo no mês 13
-118	MIN15	INPUT	0,052761863	Flag de consumo minimo no mês 14
-119	MIN16	INPUT	0,052243284	Flag de consumo minimo no mês 15
-120	MIN17	INPUT	0,054108826	Flag de consumo minimo no mês 16
-121	MIN18	INPUT	0,056471522	Flag de consumo minimo no mês 17
-122	MIN19	INPUT	0,058753239	Flag de consumo minimo no mês 18
-123	MIN20	INPUT	0,056123298	Flag de consumo minimo no mês 19
-124	MIN21	INPUT	0,058178708	Flag de consumo minimo no mês 20
-125	MIN22	INPUT	0,059937394	Flag de consumo minimo no mês 21
-126	MIN23	INPUT	0,059574622	Flag de consumo minimo no mês 22
-127	MIN24	INPUT	0,061184727	Flag de consumo minimo no mês 23
-128	MIN25	INPUT	0,060752399	Flag de consumo minimo no mês 24
-129	MIN26	INPUT	0,054916524	Flag de consumo minimo no mês 25
-130	MIN27	INPUT	0,061799859	Flag de consumo minimo no mês 26
-131	MIN28	INPUT	0,061462104	Flag de consumo minimo no mês 27
-132	MIN29	INPUT	0,060059345	Flag de consumo minimo no mês 28
-133	MIN30	INPUT	0,058171032	Flag de consumo minimo no mês 29
-134	MIN31	INPUT	0,059663429	Flag de consumo minimo no mês 30
-135	MIN32	INPUT	0,060604954	Flag de consumo minimo no mês 31
-136	MIN33	INPUT	0,060401488	Flag de consumo minimo no mês 32
-137	MIN34	INPUT	0,066121543	Flag de consumo minimo no mês 33
-138	MIN35	INPUT	0,066028695	Flag de consumo minimo no mês 34
-139	MIN36	INPUT	0,063434157	Flag de consumo minimo no mês 35
-140	MIN37	INPUT	0,062866006	Flag de consumo minimo no mês 36
-141	MIN38	INPUT	0,064273821	Flag de consumo minimo no mês 37
-142	MIN39	INPUT	0,063494461	Flag de consumo minimo no mês 38
-143	MIN40	INPUT	0,058566686	Flag de consumo minimo no mês 39
-144	MIN41	INPUT	0,059604008	Flag de consumo minimo no mês 40
-145	MIN42	INPUT	0,049124814	Flag de consumo minimo no mês 41
-146	NORMALIZACAO	INPUT	0,043737269	Total de normalizações de padrão de medição.
-147	QTD_MIN03	INPUT	0,037360709	Total de consumos minimos nos últimos 3 meses.
-148	QTD_MIN06	INPUT	0,04501577	Total de consumos minimos nos últimos 6 meses.
-149	QTD_MIN09	INPUT	0,047784168	Total de consumos minimos nos últimos 9 meses.
-150	QTD_MIN12	INPUT	0,049810625	Total de consumos minimos nos últimos 12 meses.
-151	REINCIDENCIA	INPUT	0,448931154	Total de fraudes ou defeitos técnicos constatados no consumidor.
-152	SUM_COD100	INPUT	0,020836636	Total de fraudes constatadas nos vizinhos.
-153	SUM_COD200	INPUT	-0,01383789	Total de defeitos técnicos com perdas técnicas constatadas nos vizinhos.
-154	SUM_COD300	INPUT	-0,370700008	Total de fiscalizações executadas nos vizinhos sem perdas técnicas.
-155	SUM_MINIMOS12	INPUT	-0,108488744	Total de consumos minimos dos vizinhos nos últimos 12 meses.
-156	SUM_NORMALIZACAO	INPUT	-0,197009547	Total de normalizações de padrão de medição nos vizinhos.
-157	SUM_TROCA_MD	INPUT	-0,07099419	Total de trocas de medidores dos vizinhos.
-158	TARGET	TARGET	1	Variável de saída.
-159	TROCA_MD	INPUT	0,141616845	Total de trocas de medidores.
-160	UC_FISCALIZADAS	INPUT	-0,197327044	Quantidade de fiscalizaçãos nos vizinhos até 30 mestros.
-161	VR01	INPUT	0,0010111	Variação de consumo entre o mês anterior e o mês 1
-162	VR02	INPUT	-0,003990626	Variação de consumo entre o mês anterior e o mês 2
-163	VR03	INPUT	-0,004569693	Variação de consumo entre o mês anterior e o mês 3
-164	VR04	INPUT	-0,009580914	Variação de consumo entre o mês anterior e o mês 4
-165	VR05	INPUT	-0,00115616	Variação de consumo entre o mês anterior e o mês 5
-166	VR06	INPUT	0,005673781	Variação de consumo entre o mês anterior e o mês 6
-167	VR07	INPUT	0,000301952	Variação de consumo entre o mês anterior e o mês 7
-168	VR08	INPUT	0,007117693	Variação de consumo entre o mês anterior e o mês 8
-169	VR09	INPUT	0,010269991	Variação de consumo entre o mês anterior e o mês 9
-170	VR10	INPUT	-0,013124714	Variação de consumo entre o mês anterior e o mês 10
-171	VR11	INPUT	-0,001943129	Variação de consumo entre o mês anterior e o mês 11
-172	VR12	INPUT	-0,00629615	Variação de consumo entre o mês anterior e o mês 12
-173	VR13	INPUT	0,013441551	Variação de consumo entre o mês anterior e o mês 13
-174	VR14	INPUT	-0,006129219	Variação de consumo entre o mês anterior e o mês 14
-175	VR15	INPUT	-0,016130666	Variação de consumo entre o mês anterior e o mês 15
-176	VR16	INPUT	0,003853109	Variação de consumo entre o mês anterior e o mês 16
-177	VR17	INPUT	0,004929725	Variação de consumo entre o mês anterior e o mês 17
-178	VR18	INPUT	-0,003285106	Variação de consumo entre o mês anterior e o mês 18
-179	VR19	INPUT	0,003047754	Variação de consumo entre o mês anterior e o mês 19
-180	VR20	INPUT	0,007902888	Variação de consumo entre o mês anterior e o mês 20
-181	VR21	INPUT	-0,002782128	Variação de consumo entre o mês anterior e o mês 21
-182	VR22	INPUT	-0,007200769	Variação de consumo entre o mês anterior e o mês 22
-183	VR23	INPUT	0,002840499	Variação de consumo entre o mês anterior e o mês 23
-184	VR24	INPUT	0,007880534	Variação de consumo entre o mês anterior e o mês 24
-185	VR25	INPUT	-0,000238902	Variação de consumo entre o mês anterior e o mês 25
-186	VR26	INPUT	0,000203021	Variação de consumo entre o mês anterior e o mês 26
-187	VR27	INPUT	-0,000501431	Variação de consumo entre o mês anterior e o mês 27
-188	VR28	INPUT	-0,000347794	Variação de consumo entre o mês anterior e o mês 28
-189	VR29	INPUT	0,000294242	Variação de consumo entre o mês anterior e o mês 29
-190	VR30	INPUT	0,00033734	Variação de consumo entre o mês anterior e o mês 30
-191	VR31	INPUT	0,000112935	Variação de consumo entre o mês anterior e o mês 31
-192	VR32	INPUT	0,000760682	Variação de consumo entre o mês anterior e o mês 32
-193	VR33	INPUT	0,00312615	Variação de consumo entre o mês anterior e o mês 33
-194	VR34	INPUT	-0,00276863	Variação de consumo entre o mês anterior e o mês 34
-195	VR35	INPUT	-0,000445899	Variação de consumo entre o mês anterior e o mês 35
-196	VR36	INPUT	-0,000153623	Variação de consumo entre o mês anterior e o mês 36
-197	VR37	INPUT	0,008099518	Variação de consumo entre o mês anterior e o mês 37
-198	VR38	INPUT	0,001879755	Variação de consumo entre o mês anterior e o mês 38
-199	VR39	INPUT	-7,5318E-05	Variação de consumo entre o mês anterior e o mês 39
-200	VR40	INPUT	-0,0004255	Variação de consumo entre o mês anterior e o mês 40
-201	VR41	INPUT	0,000425539	Variação de consumo entre o mês anterior e o mês 41
-202	VR42	INPUT	-0,009128408	Variação de consumo entre o mês anterior e o mês 42
+ITEM	ATRIBUTO	TIPO	DESCRIÇÃO DO ATRIBUTO
+1	AVG_CM03	INPUT	Média de consumo dos últimos 3 meses.
+2	AVG_CM06	INPUT	Média de consumo dos últimos 6 meses.
+3	AVG_CM09	INPUT	Média de consumo dos últimos 9 meses.
+4	AVG_CM12	INPUT	Média de consumo dos últimos 12 meses.
+5	AVG_CONS24	INPUT	Média de consumo dos últimos 24 meses.
+6	CF01	INPUT	Consumo faturado mês 1.
+7	CF02	INPUT	Consumo faturado mês 2.
+8	CF03	INPUT	Consumo faturado mês 3.
+9	CF04	INPUT	Consumo faturado mês 4.
+10	CF05	INPUT	Consumo faturado mês 5.
+11	CF06	INPUT	Consumo faturado mês 6.
+12	CF07	INPUT	Consumo faturado mês 7.
+13	CF08	INPUT	Consumo faturado mês 8.
+14	CF09	INPUT	Consumo faturado mês 9.
+15	CF10	INPUT	Consumo faturado mês 10.
+16	CF11	INPUT	Consumo faturado mês 11.
+17	CF12	INPUT	Consumo faturado mês 12.
+18	CF13	INPUT	Consumo faturado mês 13.
+19	CF14	INPUT	Consumo faturado mês 14.
+20	CF15	INPUT	Consumo faturado mês 15.
+21	CF16	INPUT	Consumo faturado mês 16.
+22	CF17	INPUT	Consumo faturado mês 17.
+23	CF18	INPUT	Consumo faturado mês 18.
+24	CF19	INPUT	Consumo faturado mês 19.
+25	CF20	INPUT	Consumo faturado mês 20.
+26	CF21	INPUT	Consumo faturado mês 21.
+27	CF22	INPUT	Consumo faturado mês 22.
+28	CF23	INPUT	Consumo faturado mês 23.
+29	CF24	INPUT	Consumo faturado mês 24.
+30	CF25	INPUT	Consumo faturado mês 25.
+31	CF26	INPUT	Consumo faturado mês 26.
+32	CF27	INPUT	Consumo faturado mês 27.
+33	CF28	INPUT	Consumo faturado mês 28.
+34	CF29	INPUT	Consumo faturado mês 29.
+35	CF30	INPUT	Consumo faturado mês 30.
+36	CF31	INPUT	Consumo faturado mês 31.
+37	CF32	INPUT	Consumo faturado mês 32.
+38	CF33	INPUT	Consumo faturado mês 33.
+39	CF34	INPUT	Consumo faturado mês 34.
+40	CF35	INPUT	Consumo faturado mês 35.
+41	CF36	INPUT	Consumo faturado mês 36.
+42	CF37	INPUT	Consumo faturado mês 37.
+43	CF38	INPUT	Consumo faturado mês 38.
+44	CF39	INPUT	Consumo faturado mês 39.
+45	CF40	INPUT	Consumo faturado mês 40.
+46	CF41	INPUT	Consumo faturado mês 41.
+47	CF42	INPUT	Consumo faturado mês 42.
+48	CF43	INPUT	Consumo faturado mês 43.
+49	CM01	INPUT	Consumo medido no mês 1.
+50	CM02	INPUT	Consumo medido no mês 2.
+51	CM03	INPUT	Consumo medido no mês 3.
+52	CM04	INPUT	Consumo medido no mês 4.
+53	CM05	INPUT	Consumo medido no mês 5.
+54	CM06	INPUT	Consumo medido no mês 6.
+55	CM07	INPUT	Consumo medido no mês 7.
+56	CM08	INPUT	Consumo medido no mês 8
+57	CM09	INPUT	Consumo medido no mês 9.
+58	CM10	INPUT	Consumo medido no mês 10.
+59	CM11	INPUT	Consumo medido no mês 11.
+60	CM12	INPUT	Consumo medido no mês 12.
+61	CM13	INPUT	Consumo medido no mês 13.
+62	CM14	INPUT	Consumo medido no mês 14.
+63	CM15	INPUT	Consumo medido no mês 15.
+64	CM16	INPUT	Consumo medido no mês 16.
+65	CM17	INPUT	Consumo medido no mês 17.
+66	CM18	INPUT	Consumo medido no mês 18.
+67	CM19	INPUT	Consumo medido no mês 19.
+68	CM20	INPUT	Consumo medido no mês 20.
+69	CM21	INPUT	Consumo medido no mês 21.
+70	CM22	INPUT	Consumo medido no mês 22.
+71	CM23	INPUT	Consumo medido no mês 23.
+72	CM24	INPUT	Consumo medido no mês 24.
+73	CM25	INPUT	Consumo medido no mês 25.
+74	CM26	INPUT	Consumo medido no mês 26.
+75	CM27	INPUT	Consumo medido no mês 27.
+76	CM28	INPUT	Consumo medido no mês 28.
+77	CM29	INPUT	Consumo medido no mês 29.
+78	CM30	INPUT	Consumo medido no mês 30.
+79	CM31	INPUT	Consumo medido no mês 31.
+80	CM32	INPUT	Consumo medido no mês 32.
+81	CM33	INPUT	Consumo medido no mês 33.
+82	CM34	INPUT	Consumo medido no mês 34.
+83	CM35	INPUT	Consumo medido no mês 35.
+84	CM36	INPUT	Consumo medido no mês 36.
+85	CM37	INPUT	Consumo medido no mês 37.
+86	CM38	INPUT	Consumo medido no mês 38.
+87	CM39	INPUT	Consumo medido no mês 39.
+88	CM40	INPUT	Consumo medido no mês 40.
+89	CM41	INPUT	Consumo medido no mês 41.
+90	CM42	INPUT	Consumo medido no mês 42.
+91	CM43	INPUT	Consumo medido no mês 43.
+92	COD_100EX	INPUT	Quantidade de fiscalizações exclusivas com fraude intensionais para os vizinhos até 30 metros.
+93	COD_200EX	INPUT	Quantidade de fiscalizações exclusivas com defeito técnico para os vizinhos até 30 metros.
+94	COD_300EX	INPUT	Quantidade de fiscalizações exclusivas sem perda técnica para os vizinhos até 30 metros.
+95	DIFF_LG	INPUT	Tempo em meses que o consumidor é cliente.
+96	DIFF_MES_IDADE	INPUT	Tempo em meses da idade do consumidor.
+97	DVAP_CONS24	INPUT	Desvio padrão do consumo para os vizinhos até 30 metros nos últimos 24 meses.
+98	ID_POSTE	INPUT	Id do poste.
+99	INSTALACAO	ID	ID do consumidor.
+100	LATITUDE	INPUT	Coordenada geografica, latitude.
+101	LONGITUDE	INPUT	Coordenada geografica, longitude.
+102	MAX_CONS24	INPUT	Máximo consumo para os vizinhos até 30 metros nos últimos 24 meses.
+103	MED_CONS24	INPUT	Média do consumo para os vizinhos até 30 metros nos últimos 24 meses.
+104	MIN_CONS24	INPUT	Menor consumo para os vizinhos até 30 metros nos últimos 24 meses.
+105	MIN01	INPUT	Flag de consumo minimo no mês 1
+106	MIN03	INPUT	Flag de consumo minimo no mês 2
+107	MIN04	INPUT	Flag de consumo minimo no mês 3
+108	MIN05	INPUT	Flag de consumo minimo no mês 4
+109	MIN06	INPUT	Flag de consumo minimo no mês 5
+110	MIN07	INPUT	Flag de consumo minimo no mês 6
+111	MIN08	INPUT	Flag de consumo minimo no mês 7
+112	MIN09	INPUT	Flag de consumo minimo no mês 8
+113	MIN10	INPUT	Flag de consumo minimo no mês 9
+114	MIN11	INPUT	Flag de consumo minimo no mês 10
+115	MIN12	INPUT	Flag de consumo minimo no mês 11
+116	MIN13	INPUT	Flag de consumo minimo no mês 12
+117	MIN14	INPUT	Flag de consumo minimo no mês 13
+118	MIN15	INPUT	Flag de consumo minimo no mês 14
+119	MIN16	INPUT	Flag de consumo minimo no mês 15
+120	MIN17	INPUT	Flag de consumo minimo no mês 16
+121	MIN18	INPUT	Flag de consumo minimo no mês 17
+122	MIN19	INPUT	Flag de consumo minimo no mês 18
+123	MIN20	INPUT	Flag de consumo minimo no mês 19
+124	MIN21	INPUT	Flag de consumo minimo no mês 20
+125	MIN22	INPUT	Flag de consumo minimo no mês 21
+126	MIN23	INPUT	Flag de consumo minimo no mês 22
+127	MIN24	INPUT	Flag de consumo minimo no mês 23
+128	MIN25	INPUT	Flag de consumo minimo no mês 24
+129	MIN26	INPUT	Flag de consumo minimo no mês 25
+130	MIN27	INPUT	Flag de consumo minimo no mês 26
+131	MIN28	INPUT	Flag de consumo minimo no mês 27
+132	MIN29	INPUT	Flag de consumo minimo no mês 28
+133	MIN30	INPUT	Flag de consumo minimo no mês 29
+134	MIN31	INPUT	Flag de consumo minimo no mês 30
+135	MIN32	INPUT	Flag de consumo minimo no mês 31
+136	MIN33	INPUT	Flag de consumo minimo no mês 32
+137	MIN34	INPUT	Flag de consumo minimo no mês 33
+138	MIN35	INPUT	Flag de consumo minimo no mês 34
+139	MIN36	INPUT	Flag de consumo minimo no mês 35
+140	MIN37	INPUT	Flag de consumo minimo no mês 36
+141	MIN38	INPUT	Flag de consumo minimo no mês 37
+142	MIN39	INPUT	Flag de consumo minimo no mês 38
+143	MIN40	INPUT	Flag de consumo minimo no mês 39
+144	MIN41	INPUT	Flag de consumo minimo no mês 40
+145	MIN42	INPUT	Flag de consumo minimo no mês 41
+146	NORMALIZACAO	INPUT	Total de normalizações de padrão de medição.
+147	QTD_MIN03	INPUT	Total de consumos minimos nos últimos 3 meses.
+148	QTD_MIN06	INPUT	Total de consumos minimos nos últimos 6 meses.
+149	QTD_MIN09	INPUT	Total de consumos minimos nos últimos 9 meses.
+150	QTD_MIN12	INPUT	Total de consumos minimos nos últimos 12 meses.
+151	REINCIDENCIA	INPUT	Total de fraudes ou defeitos técnicos constatados no consumidor.
+152	SUM_COD100	INPUT	Total de fraudes constatadas nos vizinhos.
+153	SUM_COD200	INPUT	Total de defeitos técnicos com perdas técnicas constatadas nos vizinhos.
+154	SUM_COD300	INPUT	Total de fiscalizações executadas nos vizinhos sem perdas técnicas.
+155	SUM_MINIMOS12	INPUT	Total de consumos minimos dos vizinhos nos últimos 12 meses.
+156	SUM_NORMALIZACAO	INPUT	Total de normalizações de padrão de medição nos vizinhos.
+157	SUM_TROCA_MD	INPUT	Total de trocas de medidores dos vizinhos.
+158	TARGET	TARGET	Variável de saída.
+159	TROCA_MD	INPUT	Total de trocas de medidores.
+160	UC_FISCALIZADAS	INPUT	Quantidade de fiscalizaçãos nos vizinhos até 30 mestros.
+161	VR01	INPUT	Variação de consumo entre o mês anterior e o mês 1
+162	VR02	INPUT	Variação de consumo entre o mês anterior e o mês 2
+163	VR03	INPUT	Variação de consumo entre o mês anterior e o mês 3
+164	VR04	INPUT	Variação de consumo entre o mês anterior e o mês 4
+165	VR05	INPUT	Variação de consumo entre o mês anterior e o mês 5
+166	VR06	INPUT	Variação de consumo entre o mês anterior e o mês 6
+167	VR07	INPUT	Variação de consumo entre o mês anterior e o mês 7
+168	VR08	INPUT	Variação de consumo entre o mês anterior e o mês 8
+169	VR09	INPUT	Variação de consumo entre o mês anterior e o mês 9
+170	VR10	INPUT	Variação de consumo entre o mês anterior e o mês 10
+171	VR11	INPUT	Variação de consumo entre o mês anterior e o mês 11
+172	VR12	INPUT	Variação de consumo entre o mês anterior e o mês 12
+173	VR13	INPUT	Variação de consumo entre o mês anterior e o mês 13
+174	VR14	INPUT	Variação de consumo entre o mês anterior e o mês 14
+175	VR15	INPUT	Variação de consumo entre o mês anterior e o mês 15
+176	VR16	INPUT	Variação de consumo entre o mês anterior e o mês 16
+177	VR17	INPUT	Variação de consumo entre o mês anterior e o mês 17
+178	VR18	INPUT	Variação de consumo entre o mês anterior e o mês 18
+179	VR19	INPUT	Variação de consumo entre o mês anterior e o mês 19
+180	VR20	INPUT	Variação de consumo entre o mês anterior e o mês 20
+181	VR21	INPUT	Variação de consumo entre o mês anterior e o mês 21
+182	VR22	INPUT	Variação de consumo entre o mês anterior e o mês 22
+183	VR23	INPUT	Variação de consumo entre o mês anterior e o mês 23
+184	VR24	INPUT	Variação de consumo entre o mês anterior e o mês 24
+185	VR25	INPUT	Variação de consumo entre o mês anterior e o mês 25
+186	VR26	INPUT	Variação de consumo entre o mês anterior e o mês 26
+187	VR27	INPUT	Variação de consumo entre o mês anterior e o mês 27
+188	VR28	INPUT	Variação de consumo entre o mês anterior e o mês 28
+189	VR29	INPUT	Variação de consumo entre o mês anterior e o mês 29
+190	VR30	INPUT	Variação de consumo entre o mês anterior e o mês 30
+191	VR31	INPUT	Variação de consumo entre o mês anterior e o mês 31
+192	VR32	INPUT	Variação de consumo entre o mês anterior e o mês 32
+193	VR33	INPUT	Variação de consumo entre o mês anterior e o mês 33
+194	VR34	INPUT	Variação de consumo entre o mês anterior e o mês 34
+195	VR35	INPUT	Variação de consumo entre o mês anterior e o mês 35
+196	VR36	INPUT	Variação de consumo entre o mês anterior e o mês 36
+197	VR37	INPUT	Variação de consumo entre o mês anterior e o mês 37
+198	VR38	INPUT	Variação de consumo entre o mês anterior e o mês 38
+199	VR39	INPUT	Variação de consumo entre o mês anterior e o mês 39
+200	VR40	INPUT	Variação de consumo entre o mês anterior e o mês 40
+201	VR41	INPUT	Variação de consumo entre o mês anterior e o mês 41
+202	VR42	INPUT	Variação de consumo entre o mês anterior e o mês 42
